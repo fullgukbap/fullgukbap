@@ -1,2 +1,2 @@
 ### Hi there 👋  
-I'm JunBeom, a Go backend engineer who loves clean code and coffee ☕
+I'm JunBeom, a Go backend engineer who feels most human in moments of fulfillment 🕺🏼
